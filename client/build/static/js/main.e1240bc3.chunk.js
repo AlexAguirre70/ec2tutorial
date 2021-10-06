@@ -1,0 +1,2 @@
+(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(1),i=n.n(c),r=n(4),s=n.n(r),o=(n(3),n(0));var p=function(){return Object(o.jsx)("div",{className:"App",children:Object(o.jsx)("h1",{children:"Deploying a production React-Express App to AWS EC2"})})};s.a.render(Object(o.jsx)(i.a.StrictMode,{children:Object(o.jsx)(p,{})}),document.getElementById("root"))},3:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.e1240bc3.chunk.js.map
